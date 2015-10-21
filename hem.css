@@ -1,0 +1,81 @@
+body{
+background-color: #757575;
+margin:0px;
+font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
+}
+p{
+	margin:0;
+}
+a{
+	color: #ffffff;
+}
+
+#menuContainer{
+	height: 50px;
+	width: 100%;
+	background-color: #333333;
+	position: fixed;
+	margin-top: 0;
+}
+.menuButton{
+	
+	height: 50px;
+	width: 14.28%;
+	float: left;
+	text-align: center;
+	padding-top: 15px;
+}
+
+#header{
+	height: 18%;
+}
+
+#container{
+	height: 3000px;
+	width:100%;
+}
+
+.lilastart{
+	height: 2%;
+	background-image: url("pics/lilaSne.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 0px;
+}
+.lilaslut{
+	height: 2%;
+	background-image: url("pics/lilaSneNer.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 0px;
+}
+.vitstart{
+	height: 1%;
+	background-image: url("pics/vitSne.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 0px;
+}
+.vitslut{
+	height: 1%;
+	background-image: url("pics/vitSneNer.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 0px;
+}
+
+#sittning{
+	height:18%;
+	width:100%;
+	background-color: #815B89;
+}
+#biljetter{
+	height:18%;
+	width:100%;
+	background-color: none;
+}
+#ada{
+	height:13%;
+	width:100%;
+	background-color: #ffffff;
+}
