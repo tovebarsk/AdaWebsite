@@ -27,13 +27,16 @@ a{
 }
 
 #header{
-	height: 18%;
+	height: auto;
+
+	margin: 0;
+	background-color: #815B89;
 }
-#computer img{
-	height: 15%;
-	width: 15%;
- 	position: center;
- }
+#header img{
+	width:100%;
+	height: auto;
+}
+
  #computer{ 
  	padding-top: 10%;
  	float:center;
