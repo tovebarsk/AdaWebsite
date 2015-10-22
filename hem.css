@@ -58,10 +58,17 @@ a{
 	float: left;
 }
 #sittningh{
+	background-image: url("pics/träd.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 90%;
+	margin-top: 1%;
+	margin-bottom: 2%;
 	height: 100%;
 	width: 50%;
 	float: left;
 }
+
 #ada{
 	height:18%;
 	width:100%;
