@@ -29,39 +29,19 @@ a{
 #header{
 	height: 18%;
 }
-
+#computer img{
+	height: 15%;
+	width: 15%;
+ 	position: center;
+ }
+ #computer{ 
+ 	padding-top: 10%;
+ 	float:center;
+ 	text-align: center;
+ }
 #container{
 	height: 3000px;
 	width:100%;
-}
-
-.lilastart{
-	height: 2%;
-	background-image: url("pics/lilaSne.png");
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	margin: 0px;
-}
-.lilaslut{
-	height: 2%;
-	background-image: url("pics/lilaSneNer.png");
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	margin: 0px;
-}
-.vitstart{
-	height: 1%;
-	background-image: url("pics/vitSne.png");
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	margin: 0px;
-}
-.vitslut{
-	height: 1%;
-	background-image: url("pics/vitSneNer.png");
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	margin: 0px;
 }
 
 #sittning{
@@ -69,13 +49,18 @@ a{
 	width:100%;
 	background-color: #815B89;
 }
-#biljetter{
+#ada{
 	height:18%;
 	width:100%;
 	background-color: none;
 }
-#ada{
+#sponsors{
 	height:13%;
 	width:100%;
 	background-color: #ffffff;
+}
+#contacts{
+	height:13%;
+	width:100%;
+	background-color: #333333;
 }
