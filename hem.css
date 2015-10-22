@@ -48,22 +48,23 @@ a{
 }
 
 #sittning{
-	height:18%;
+	height:30%;
 	width:100%;
 	background-color: #815B89;
 }
 #sittningv{
-	height: 100%;
-	width: 50%;
-	float: left;
-}
-#sittningh{
 	background-image: url("pics/träd.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 90%;
+	background-size: 80%;
 	margin-top: 1%;
 	margin-bottom: 2%;
+	height: 100%;
+	width: 50%;
+	float: left;
+
+}
+#sittningh{
 	height: 100%;
 	width: 50%;
 	float: left;
