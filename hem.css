@@ -94,7 +94,9 @@ h1{
 #sittningtext p {
 	text-align: justify;
 	line-height: 200%;
-	color: #333333;	
+	color: black;	
+	font-weight: 300;
+	font-size: 18px;
 
 }
 
