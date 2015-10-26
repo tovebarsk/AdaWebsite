@@ -1,13 +1,18 @@
 body{
 background-color: #757575;
 margin:0px;
-font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
+font-family: "Avenir Next";
 }
 p{
 	margin:0;
 }
 a{
 	color: #ffffff;
+}
+h1{
+	margin: 0;
+	font-size: 5em;
+
 }
 
 #menuContainer{
@@ -30,7 +35,7 @@ a{
 	height: auto;
 
 	margin: 0;
-	background-color: #815B89;
+	background-color: #ffffff;
 }
 #header img{
 	width:100%;
@@ -50,7 +55,14 @@ a{
 #sittning{
 	height:30%;
 	width:100%;
-	background-color: #815B89;
+	background-color: #ffffff;
+}
+#rubrik{
+	height:10%;
+	width: 100%;
+	background-color: #ffffff;
+	margin:0;
+	text-align: center;
 }
 #sittningv{
 	background-image: url("pics/träd.png");
@@ -59,13 +71,13 @@ a{
 	background-size: 80%;
 	margin-top: 1%;
 	margin-bottom: 2%;
-	height: 100%;
+	height: 90%;
 	width: 50%;
 	float: left;
 
 }
 #sittningh{
-	height: 100%;
+	height: 90%;
 	width: 50%;
 	float: left;
 }
@@ -73,7 +85,7 @@ a{
 #ada{
 	height:18%;
 	width:100%;
-	background-color: none;
+	background-color: #815B89;
 }
 #sponsors{
 	height:13%;
