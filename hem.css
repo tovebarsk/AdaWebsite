@@ -82,6 +82,16 @@ h1{
 	float: left;
 }
 
+#sittningtext {
+	margin-top: 15%;
+	width: 88%;
+}
+
+#sittningtext p {
+	text-align: justify;
+	color: #333333;	
+}
+
 #ada{
 	height:18%;
 	width:100%;
