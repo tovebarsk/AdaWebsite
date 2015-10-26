@@ -10,6 +10,8 @@ a{
 	color: #ffffff;
 }
 h1{
+	text-align: center;
+	font-weight: 200;
 	margin: 0;
 	font-size: 5em;
 
@@ -61,19 +63,17 @@ h1{
 	height:30%;
 	width:100%;
 	background-color: #ffffff;
-	padding-top: 5%;
+	padding-top: 3%;
 }
 #sittning h1{
-	text-align: center;
 	color: #333333;
-	font-weight: 200;
 }
 
 #sittningv{
 	background-size: 80%;
 	margin-bottom: 2%;
 	padding-top: 5%;
-	height: 90%;
+	height: 70%;
 	width: 50%;
 	float: left;
 }
@@ -105,18 +105,29 @@ h1{
 
 }
 
-#ada{
+#ada {
+	padding-top: 3%;
+	width: 100%;
 	height:18%;
-	width:100%;
 	background-color: #815B89;
+	text-align: center;
 }
+
 #sponsors{
+	padding-top: 3%;
 	height:13%;
 	width:100%;
 	background-color: #ffffff;
 }
+
 #contacts{
+	padding-top: 3%;
 	height:13%;
 	width:100%;
 	background-color: #333333;
+}
+
+#contacts h1 {
+	color: #ffffff;
+	font-weight: 200;
 }
