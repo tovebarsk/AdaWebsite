@@ -65,18 +65,19 @@ h1{
 }
 
 #sittningv{
-	background-image: url("pics/träd.png");
-	background-repeat: no-repeat;
-	background-position: center;
 	background-size: 80%;
 	margin-bottom: 2%;
+	padding-top: 5%;
 	height: 90%;
 	width: 50%;
 	float: left;
 }
 
-#sittningbild {
-
+#sittningv img{	
+	padding-left: 5%;
+	position: center;
+	width: 80%;
+	height: auto;
 }
 #sittningh{
 	height: 90%;
