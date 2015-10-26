@@ -56,7 +56,14 @@ h1{
 	height:30%;
 	width:100%;
 	background-color: #ffffff;
+	padding-top: 15%;
 }
+#sittning h1{
+	text-align: center;
+	color: #333333;
+	font-weight: 200;
+}
+
 #rubrik{
 	height:10%;
 	width: 100%;
@@ -85,11 +92,14 @@ h1{
 #sittningtext {
 	margin-top: 15%;
 	width: 88%;
+	height: auto;
 }
 
 #sittningtext p {
 	text-align: justify;
+	line-height: 200%;
 	color: #333333;	
+
 }
 
 #ada{
