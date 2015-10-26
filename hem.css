@@ -56,7 +56,7 @@ h1{
 	height:30%;
 	width:100%;
 	background-color: #ffffff;
-	padding-top: 15%;
+	padding-top: 5%;
 }
 #sittning h1{
 	text-align: center;
@@ -64,23 +64,18 @@ h1{
 	font-weight: 200;
 }
 
-#rubrik{
-	height:10%;
-	width: 100%;
-	background-color: #ffffff;
-	margin:0;
-	text-align: center;
-}
 #sittningv{
 	background-image: url("pics/träd.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 80%;
-	margin-top: 1%;
 	margin-bottom: 2%;
 	height: 90%;
 	width: 50%;
 	float: left;
+}
+
+#sittningbild {
 
 }
 #sittningh{
