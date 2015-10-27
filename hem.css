@@ -119,6 +119,9 @@ h3 {
 	width: 100%;
 	height: 15%;
 	background-image: url("pics/biljetter.png");
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 #del1{
@@ -127,12 +130,15 @@ h3 {
 }
 
 #del2 {
+	padding-left: 2%;
 	float:left;
-	width: 33.33%;
+	width: 33%;
 }
 
-#del2 p {
-
+.textdel{
+	text-align: justify;
+	width: 85%;
+	height: auto;
 }
 
 #del3 {
