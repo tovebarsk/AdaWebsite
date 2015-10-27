@@ -4,6 +4,10 @@ margin:0px;
 font-family: "Avenir Next";
 }
 p{
+	text-align: justify;
+	line-height: 200%;
+	font-weight: 300;
+	font-size: 18px;
 	margin:0;
 }
 a{
@@ -106,11 +110,7 @@ h3 {
 }
 
 #sittningtext p {
-	text-align: justify;
-	line-height: 200%;
 	color: black;	
-	font-weight: 300;
-	font-size: 18px;
 }
 
 #biljetter {
@@ -128,6 +128,10 @@ h3 {
 #del2 {
 	float:left;
 	width: 33.33%;
+}
+
+#del2 p {
+
 }
 
 #del3 {
