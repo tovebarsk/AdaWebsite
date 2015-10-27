@@ -72,6 +72,9 @@ h3 {
 #sittning{
 	height:23%;
 	width:100%;
+	background-image: url("pics/sittningback.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
 	background-color: #ffffff;
 	padding-top: 3%;
 }
