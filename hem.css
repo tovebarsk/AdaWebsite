@@ -125,25 +125,32 @@ h3 {
 }
 
 #del1{
+	margin-top: 2%;
 	float: left;
-	width: 33.33%;
+	width: 33%;
 }
 
 #del2 {
-	padding-left: 2%;
+	margin-top: 2%;
 	float:left;
 	width: 33%;
 }
 
+#del2 p {
+
+}
+
 .textdel{
+	margin-left: 4%;
 	text-align: justify;
 	width: 85%;
 	height: auto;
 }
 
 #del3 {
+	margin-top: 2%;
 	float: right;
-	width: 33.33%;
+	width: 33%;
 }
 
 #ada {
