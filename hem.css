@@ -164,6 +164,7 @@ h3 {
 #textdelume p{
 	text-align: justify;
 	width: 80%;
+		height: 33%;
 }
 
 
@@ -194,12 +195,36 @@ h3 {
 
 #sponsors{
 	padding-top: 3%;
-	height:13%;
+	height:18%;
 	width:100%;
 	background-color: #ffffff;
 }
 
-#contacts{
+#sponsorh{
+	text-align: center;
+	float: left;
+	width: 50%;
+	height: auto;
+}
+
+#sponsorh img {
+	padding-top: 12%;
+	width: 50%;
+}
+
+#sponsorv{
+	text-align: center;
+	float: left;
+	width: 50%;
+	height: auto; 
+}
+
+#sponsorv img {
+	padding-top: 7%;
+	width: 50%;
+}
+
+#contacts {
 	padding-top: 3%;
 	height:13%;
 	width:100%;
