@@ -5,9 +5,8 @@ font-family: "Avenir Next";
 }
 p{
 	text-align: justify;
-	line-height: 200%;
 	font-weight: 300;
-	font-size: 18px;
+	font-size: 1.7vw;
 	margin:0;
 }
 a{
@@ -17,16 +16,26 @@ h1 {
 	text-align: center;
 	font-weight: 200;
 	margin: 0;
-	font-size: 5em;
+	font-size: 10vh;
 }
 
 h3 {
 	text-align: center;
 	font-weight: 200;
 	margin: 0;
-	font-size: 3em;
+	font-size: 3vh;
 }
-
+h5{
+	text-align: center;
+	font-size: 2vh;
+	font-weight: 400;
+	margin-top: 8%;
+}
+h6{
+	text-align: center;
+	font-size: 2vh;
+	font-weight: 400;
+}
 #menuContainer{
 	height: 50px;
 	width: 100%;
@@ -40,7 +49,6 @@ h3 {
 	width: 14.28%;
 	float: left;
 	text-align: center;
-	padding-top: 15px;
 }
 
 .menuButton p{
@@ -50,13 +58,14 @@ h3 {
 
 #header{
 	height: auto;
-
 	margin: 0;
 	background-color: #ffffff;
 }
+
 #header img{
 	width:100%;
 	height: auto;
+ 	margin: 0;
 }
 
  #computer{ 
@@ -70,7 +79,7 @@ h3 {
 }
 
 #sittning{
-	height:21%;
+	height:600px;
 	width:100%;
 	background-image: url("pics/sittningback.png");
 	background-repeat: no-repeat;
@@ -86,7 +95,7 @@ h3 {
 	text-align: center;
 	background-size: 80%;
 	padding-top: 5%;
-	height: 70%;
+	height: auto;
 	width: 50%;
 	float: left;
 }
@@ -120,7 +129,7 @@ h3 {
 	background-color: #ffffff;
 	padding:0;
 	width: 100%;
-	height: 12%;
+	height: 14.5%;
 	background-image: url("pics/biljetter.png");
 	background-size: 100%;
 	background-position: center;
