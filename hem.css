@@ -79,7 +79,7 @@ h6{
 }
 
 #sittning{
-	height:700px;
+	height:659px;
 	width:100%;
 	background-image: url("pics/sittningback.png");
 	background-repeat: no-repeat;
@@ -126,14 +126,16 @@ h6{
 
 #biljetter {
 	margin: 0;
+	padding: 0;
 	background-color: #ffffff;
 	width: 100%;
-	height: 410px;
+	height: 712px;
 	background-image: url("pics/biljetter.png");
 	background-size: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
 }
+
 
 #biljetter h3{
 	margin-top: 50px;
@@ -247,8 +249,9 @@ h6{
 }
 /** IPAD **/
 @media (min-width: 500px) and (max-width: 800px) {
-	h1{
-		font-size: 3em;
+	
+	h1 {
+		font-size: 4em;
 	}
 
 	.menuButton {
@@ -263,7 +266,7 @@ h6{
 	}
 
 	#sittning{
-		height:440px;
+		height:538px;
 		width:100%;
 		background-image: url("pics/sittningback.png");
 		background-repeat: no-repeat;
@@ -283,7 +286,7 @@ h6{
 
 	#sittningv img{	
 		padding: 0;
-		margin-top: 9%;
+		margin-top: 10%;
 		position: center;
 		width: 100%;
 		height: auto;
@@ -297,8 +300,20 @@ h6{
 	}
 
 	#sittningtext p {
-		font-size: 2.5vw;
+		font-size: 2.2vw;
 		color: black;	
+	}
+
+	#biljetter {
+		margin: 0;
+		padding: 0;
+		background-color: #ffffff;
+		width: 100%;
+		height: 250px;
+		background-image: url("pics/biljetter.png");
+		background-size: 100%;
+		background-position: center;
+		background-repeat: no-repeat;
 	}
 
 }
