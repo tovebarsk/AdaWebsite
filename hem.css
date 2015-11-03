@@ -121,7 +121,10 @@ h6{
 }
 
 #sittningtext p {
-	color: black;	
+	text-align: center;
+	color: black;
+	font-weight: 300;
+	font-size: 1.5vw;	
 }
 
 #biljetter {
