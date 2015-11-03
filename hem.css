@@ -79,8 +79,8 @@ h6{
 }
 
 #sittning{
-	height:659px;
-	width:100%;
+	padding-bottom: 52%;
+		height: 0;
 	background-image: url("pics/sittningback.png");
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -129,7 +129,8 @@ h6{
 	padding: 0;
 	background-color: #ffffff;
 	width: 100%;
-	height: 712px;
+	padding-bottom: 33%;
+	height: 0;
 	background-image: url("pics/biljetter.png");
 	background-size: 100%;
 	background-position: center;
@@ -268,7 +269,8 @@ h6{
 	}
 
 	#sittning{
-		height:538px;
+		padding-bottom: 50%;
+		height: 0;
 		width:100%;
 		background-image: url("pics/sittningback.png");
 		background-repeat: no-repeat;
@@ -311,7 +313,8 @@ h6{
 		padding: 0;
 		background-color: #ffffff;
 		width: 100%;
-		height: 250px;
+		padding-bottom: 45%;
+		height: 0;
 		background-image: url("pics/biljetter.png");
 		background-size: 100%;
 		background-position: center;
