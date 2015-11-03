@@ -124,16 +124,18 @@ h6{
 
 #sittningtext {
 	padding-left: 5%;
-	margin-top: 15%;
+	margin-top: 7%;
 	width: 86%;
 	height: auto;
 }
 
 #sittningtext p {
 	text-align: center;
-	color: black;
+	color: #727272;
 	font-weight: 300;
-	font-size: 1.5vw;	
+	font-size: 1.2vw;	
+	font-weight: normal;
+
 }
 
 #biljetter {
@@ -154,11 +156,14 @@ h6{
 	margin-top: 50px;
 	font-weight: 400;
 	padding-bottom: 0;
+	color: #5b5b5b;
 }
 #biljetter p{
 	text-align: center;
+	color: #5b5b5b;
 	font-weight: 300;
-	font-size: 1.5vw;
+	font-size: 1.2vw;	
+	font-weight: normal;
 }
 
 #del1{
@@ -199,7 +204,8 @@ h6{
 	color: #ffffff;
 	text-align: center;
 	font-weight: 300;
-	font-size: 1.5vw;
+	font-size: 1.3vw;	
+	font-weight: normal;
 
 }
 #adav{
@@ -262,11 +268,15 @@ h6{
 	padding-bottom: 50%;
 	height:0;
 	text-align: center;
+	background-image: url("pics/adaback.png");
+	background-size: 100%;
 }
 #contacts p{
-	font-size: 1.3vw;
-	color:white;
 	text-align: center;
+	color: #ffffff;
+	font-weight: 300;
+	font-size: 1.2vw;	
+	font-weight: normal;
 }
 #contacts h3{
 	font-size: 1.9vw;
