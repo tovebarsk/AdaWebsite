@@ -171,8 +171,37 @@ h6{
 	width: 100%;
 	height:18%;
 	background-color: #52437e;
+	background-image: url("pics/adaback.png");
+	background-size: 100%;
 	text-align: center;
 }
+#ada h1{
+	color: #ffffff;
+}
+#ada p{
+	color: #ffffff;
+	text-align: center;
+	font-weight: 300;
+	font-size: 1.3vw;
+
+}
+#adav{
+	padding-top: 5%;
+	width:50%;
+	height:100%;
+	float:left;
+}
+#adah{
+	width:50%;
+	float:left;
+	height:100%;
+}
+
+#adah img{
+	width:60%;
+	height:auto;
+}
+
 
 #sponsors{
 	padding-top: 3%;
