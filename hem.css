@@ -258,7 +258,15 @@ h6{
 @media (min-width: 500px) and (max-width: 800px) {
 	
 	h1 {
-		font-size: 4em;
+		font-size: 4.5em;
+	}
+
+	h3{
+		font-size: 24px;
+	}
+
+	h5{
+		font-size: 15px;
 	}
 
 	.menuButton {
@@ -268,12 +276,8 @@ h6{
 		text-align: center;
 	}
 
-	h5{
-		font-size: 15px;
-	}
-
 	#sittning{
-		padding-bottom: 50%;
+		padding-bottom: 76%;
 		height: 0;
 		width:100%;
 		background-image: url("pics/sittningback.png");
@@ -317,12 +321,39 @@ h6{
 		padding: 0;
 		background-color: #ffffff;
 		width: 100%;
-		padding-bottom: 45%;
+		padding-bottom: 32%;
 		height: 0;
 		background-image: url("pics/biljetter.png");
 		background-size: 100%;
 		background-position: center;
 		background-repeat: no-repeat;
+	}
+
+	#del1 h3 {
+		margin-top: 13px;
+		font-size: 28px;
+		font-weight: 300;
+	}
+	#del1 p{
+		font-size: 12.5px;
+	}
+
+	#del2 h3{
+		margin-top: 13px;
+		font-size: 28px;
+		font-weight: 300;
+	}
+	#del2 p{
+		font-size: 12.5px;
+	}
+
+	#del3 h3{
+		margin-top: 13px;
+		font-size: 28px;
+		font-weight: 300;
+	}
+	#del3 p {
+		font-size: 12.5px;
 	}
 
 }
