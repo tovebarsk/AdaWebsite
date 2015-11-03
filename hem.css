@@ -540,7 +540,7 @@ h6{
 	}
 
 	#sittning{
-		padding-bottom: 175%;
+		padding-bottom: 185%;
 		height: 0;
 		width:100%;
 		background-image: none;
@@ -563,9 +563,9 @@ h6{
 
 	#sittningv img{	
 		padding-right: 5%;
-		padding-left: 5%;
+		padding-left: 8%;
 		position: center;
-		width: 70%;
+		width: 80%;
 		height: auto;
 	}
 	#sittningh{
