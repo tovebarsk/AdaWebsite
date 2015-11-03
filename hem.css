@@ -269,6 +269,10 @@ h6{
 		font-size: 15px;
 	}
 
+	#container{
+		height: 2800px;
+	}
+
 	.menuButton {
 		height: 50px;
 		width: 14%;
@@ -312,7 +316,7 @@ h6{
 	}
 
 	#sittningtext p {
-		font-size: 2.2vw;
+		font-size: 1.9vw;
 		color: black;	
 	}
 
@@ -335,7 +339,10 @@ h6{
 		font-weight: 300;
 	}
 	#del1 p{
-		font-size: 12.5px;
+		font-size: 1.6vw;
+		font-weight:normal;
+		color: #727272;
+		
 	}
 
 	#del2 h3{
@@ -344,7 +351,9 @@ h6{
 		font-weight: 300;
 	}
 	#del2 p{
-		font-size: 12.5px;
+		font-size: 1.6vw;
+		font-weight:normal;
+		color: #727272;
 	}
 
 	#del3 h3{
@@ -353,8 +362,47 @@ h6{
 		font-weight: 300;
 	}
 	#del3 p {
-		font-size: 12.5px;
+		font-size: 1.6vw;
+		font-weight:normal;
+		color: #727272;
 	}
+
+	#ada {
+		padding-top: 3%;
+		width: 100%;
+		padding-bottom: 69%;
+		height:0;
+		background-color: #52437e;
+		background-image: url("pics/adaback.png");
+		background-size: 100%;
+		text-align: center;
+	}
+
+	#ada h1{
+		font-size: 4.5em;
+	}
+
+	#adah img{
+		padding-top: 15%;
+		width:75%;
+		height:auto;
+	}
+
+	#ada p {
+		color: #ffffff;
+		text-align: center;
+		font-weight: 300;
+		font-size: 1.9vw;
+	}
+
+	#sponsors{
+		padding-top: 3%;
+		padding-bottom: 45%;
+		height:0;
+		width:100%;
+		background-color: #ffffff;
+	}
+
 
 }
 
