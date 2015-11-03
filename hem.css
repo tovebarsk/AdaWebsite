@@ -584,13 +584,11 @@ h6{
 
 	}
 	#adav{
-		margin-top: 222px;
 		width:100%;
 		height: auto;
 		float:left;
 	}
 	#adah{
-		margin-top: -558px;
 		width:100%;
 		float:left;
 		height:100%;
@@ -601,6 +599,43 @@ h6{
 		height:auto;
 	}
 
+	#sponsors{
+	padding-top: 3%;
+	padding-bottom: 50%;
+	height:0;
+	width:100%;
+	background-color: #ffffff;
+	background-image: none;
+	background-size: 100%;
+	}
+
+	#sponsors h1{
+		font-size: 2.8em;
+	}
+
+	#sponsorh {
+		text-align: center;
+		float: left;
+		width: 50%;
+		height: auto;
+	}
+
+	#sponsorh img {
+		padding-top: 12%;
+		width: 50%;
+	}
+
+	#sponsorv{
+		text-align: center;
+		float: left;
+		width: 50%;
+		height: auto; 
+	}
+
+	#sponsorv img {
+		padding-top: 7%;
+		width: 50%;
+	}
 
 	.d1 img{
 		width: 20%;
