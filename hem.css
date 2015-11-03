@@ -6,7 +6,7 @@ font-family: "Avenir Next";
 p{
 	text-align: justify;
 	font-weight: 300;
-	font-size: 1.5vw;
+	font-size: 1.7vw;
 	margin:0;
 }
 a{
@@ -79,7 +79,7 @@ h6{
 }
 
 #sittning{
-	height:560px;
+	height:700px;
 	width:100%;
 	background-image: url("pics/sittningback.png");
 	background-repeat: no-repeat;
@@ -137,60 +137,31 @@ h6{
 
 #biljetter h3{
 	margin-top: 50px;
-	font-weight: 400;
 }
 #biljetter p{
-	font-size: 1.3vw;
 	text-align: center;
-	padding-left: 30px;
 	font-weight: 400;
-
+	font-size: 1.5vw;
 }
 
 #del1{
 	float: left;
-	width: 33.33%;
-	height: 410px;
-
+	width: 33%;
+	height: 200px;
 }
+
 #del2 {
 	float:left;
-	width: 33.33%;
-	height: 410px;
-
+	width: 33%;
+	text-align: center;
+		height: 200px;
 }
+
+
 #del3 {
-	float: left;
-	width: 33.33%;
-	height:410px;
-}
-
-
-#textdelume {
-	margin-left: 20%;
-	width: 85%;
-	height: auto;
-	width: 80%;
-}
-
-#textdelume p{
-	text-align: justify;
-	width: 80%;
-		height: 33%;
-}
-
-
-
-
-#textupp {
-	margin-left: 18%;
-	width: 80%;
-	height: auto;
-}
-
-#textupp p {
-	text-align: justify;
-	width: 80%;
+	float: right;
+	width: 33%;
+		height: 200px;
 }
 
 
