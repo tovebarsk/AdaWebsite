@@ -171,7 +171,8 @@ h6{
 #ada {
 	padding-top: 3%;
 	width: 100%;
-	height:18%;
+	padding-bottom: 45%;
+	height:0;
 	background-color: #52437e;
 	background-image: url("pics/adaback.png");
 	background-size: 100%;
@@ -207,7 +208,8 @@ h6{
 
 #sponsors{
 	padding-top: 3%;
-	height:18%;
+	padding-bottom: 38%;
+	height:0;
 	width:100%;
 	background-color: #ffffff;
 }
