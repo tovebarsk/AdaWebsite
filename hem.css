@@ -468,10 +468,12 @@ h6{
 	}
 
 	#sponsors{
+
 		padding-top: 3%;
 		padding-bottom: 45%;
 		height:0;
 		width:100%;
+		background-image: url("pics/mobilback.png");
 		background-color: #ffffff;
 	}
 
@@ -480,7 +482,7 @@ h6{
 		padding-top: 13%;
 		width:100%;
 		background-color: #1D1129;
-		padding-bottom: 93%;
+		padding-bottom: 83%;
 		height:0;
 		text-align: center;
 	}
@@ -529,7 +531,7 @@ h6{
 	}
 
 	#menuContainer{
-		height: 45px;
+		height: 35px;
 		width: 100%;
 		background-color: #333333;
 		position: fixed;
