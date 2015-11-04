@@ -175,14 +175,25 @@ h6{
 	font-weight: normal;
 }
 
+#biljetter a{
+	font-size: 30px;
+	font-weight: 300;
+}
+
 #del1{
+	text-align: center;
 	padding-top: 5px;
 	float: left;
 	width: 33.33%;
 	height: 200px;
 }
 
+#del1 p{
+	padding-bottom: 40px;
+}
+
 #del2 {
+	text-align: center;
 	padding-top: 5px;
 	float:left;
 	width: 33.33%;
@@ -190,14 +201,22 @@ h6{
 		height: 200px;
 }
 
+#del2 p{
+	padding-bottom: 23px;
+}
+
 
 #del3 {
+	text-align: center;
 	padding-top: 5px;
 	float: right;
 	width: 33.33%;
 	height: 200px;
 }
 
+#del3 p{
+	padding-bottom: 42px;
+}
 
 #ada {
 	padding-top: 3%;
