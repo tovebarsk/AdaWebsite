@@ -159,6 +159,14 @@ h6{
 	padding-bottom: 0;
 	color: #5b5b5b;
 }
+#biljetter h5{
+
+	font-weight: 400;
+	padding-bottom: 0;
+	color: #5b5b5b;
+	font-size: 4vh;
+	margin-top: 2%;
+}
 #biljetter p{
 	text-align: center;
 	color: #5b5b5b;
@@ -168,14 +176,14 @@ h6{
 }
 
 #del1{
-	padding-top: 40px;
+	padding-top: 5px;
 	float: left;
 	width: 33.33%;
 	height: 200px;
 }
 
 #del2 {
-	padding-top: 40px;
+	padding-top: 5px;
 	float:left;
 	width: 33.33%;
 	text-align: center;
@@ -184,7 +192,7 @@ h6{
 
 
 #del3 {
-	padding-top: 40px;
+	padding-top: 5px;
 	float: right;
 	width: 33.33%;
 	height: 200px;
