@@ -677,6 +677,7 @@ h6{
 	}
 
 	#biljetter a{
+		font-size: 25px;
 		font-weight: 200;
 	}
 	#biljetter p{
@@ -712,7 +713,7 @@ h6{
 	#ada {
 		padding-top: 3%;
 		width: 100%;
-		padding-bottom: 225%;
+		padding-bottom: 276%;
 		height:0;
 		background-color: #52437E;
 		background-image: none;
