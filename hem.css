@@ -401,20 +401,31 @@ h6{
 		background-repeat: no-repeat;
 	}
 
+	#biljetter a{
+		font-size: 20px;
+		font-weight: 300;
+	}
+
 	#del1{
+		text-align: center;
 		padding-top: 15px;
 	}
 
 	#del1 h3 {
-		margin-top: 13px;
-		font-size: 28px;
+		margin-top: 0px;
+		font-size: 25px;
 		font-weight: 300;
 	}
 	#del1 p{
 		font-size: 1.6vw;
 		font-weight:normal;
 		color: #727272;
+		padding-bottom: 10px;
 		
+	}
+
+	#del1 a{
+		margin-top: 50px;
 	}
 
 	#del2 {
@@ -422,29 +433,32 @@ h6{
 	}
 
 	#del2 h3{
-		margin-top: 13px;
-		font-size: 28px;
+		margin-top: 0px;
+		font-size: 25px;
 		font-weight: 300;
 	}
 	#del2 p{
 		font-size: 1.6vw;
 		font-weight:normal;
 		color: #727272;
+		padding-bottom: 10px;
 	}
 
 	#del3 {
+		text-align: center;
 		padding-top: 15px;
 	}
 
 	#del3 h3{
-		margin-top: 13px;
-		font-size: 28px;
+		margin-top: 0px;
+		font-size: 25px;
 		font-weight: 300;
 	}
 	#del3 p {
 		font-size: 1.6vw;
 		font-weight:normal;
 		color: #727272;
+		padding-bottom: 25px;
 	}
 
 	#ada {
