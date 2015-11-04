@@ -620,7 +620,7 @@ h6{
 	#sittningtext p {
 		text-align: center;
 		color: black;
-		font-weight: 300;
+		font-weight: 400;
 		font-size: 4vw;	
 	}
 
@@ -631,7 +631,7 @@ h6{
 		background-image: none;
 		background-color: #AFB5D5;
 		width: 100%;
-		padding-bottom: 305%;
+		padding-bottom: 310%;
 		height: 0;
 	}
 
@@ -642,9 +642,13 @@ h6{
 		font-weight: 300;
 		padding-bottom: 0;
 	}
+
+	#biljetter a{
+		font-weight: 200;
+	}
 	#biljetter p{
 		text-align: center;
-		font-weight: 300;
+		font-weight: 400;
 		font-size: 3.8vw;
 	}
 
@@ -654,7 +658,7 @@ h6{
 		float: left;
 		width: 100%;
 		height: 200px;
-		padding-bottom: 70px;
+		padding-bottom: 100px;
 	}
 
 	#del2 {
@@ -662,7 +666,7 @@ h6{
 		width: 100%;
 		text-align: center;
 		height: 200px;
-		padding-bottom: 70px;
+		padding-bottom: 125px;
 	}
 
 
@@ -689,7 +693,7 @@ h6{
 	#ada p{
 		color: #ffffff;
 		text-align: center;
-		font-weight: 300;
+		font-weight: 400;
 		font-size: 3.8vw;
 
 	}
