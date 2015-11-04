@@ -319,7 +319,7 @@ h6{
 	}
 
 	#container{
-		height: 2800px;
+		height: auto;
 	}
 
 	#menuContainer{
@@ -566,7 +566,7 @@ h6{
 	}
 
 	#sittning{
-		padding-bottom: 254%;
+		padding-bottom: 271%;
 		height: 0;
 		width:100%;
 		background-image: none;
@@ -620,7 +620,7 @@ h6{
 		background-image: none;
 		background-color: #AFB5D5;
 		width: 100%;
-		padding-bottom: 261%;
+		padding-bottom: 305%;
 		height: 0;
 	}
 
@@ -664,7 +664,7 @@ h6{
 	#ada {
 		padding-top: 3%;
 		width: 100%;
-		padding-bottom: 219%;
+		padding-bottom: 225%;
 		height:0;
 		background-color: #52437E;
 		background-image: none;
@@ -742,7 +742,7 @@ h6{
 		width:100%;
 		background-image: none;
 		background-color: #1D1129;
-		padding-bottom: 52%;
+		padding-bottom: 58%;
 		height:0;
 		text-align: center;
 	}
