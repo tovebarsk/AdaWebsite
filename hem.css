@@ -16,7 +16,7 @@ h1 {
 	text-align: center;
 	font-weight: 200;
 	margin: 0;
-	font-size: 10vh;
+	font-size: 5.5vw;
 }
 
 h3 {
@@ -234,7 +234,7 @@ h6{
 	height:0;
 	width:100%;
 	background-color: #ffffff;
-	background-image: url("pics/adaback.png");
+	background-image: url("pics/sponsback.png");
 	background-size: 100%;
 }
 
@@ -269,7 +269,7 @@ h6{
 	padding-bottom: 46%;
 	height:0;
 	text-align: center;
-	background-image: url("pics/adaback.png");
+	background-image: url("pics/contactback.png");
 	background-size: 100%;
 }
 #contacts p{
