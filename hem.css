@@ -263,10 +263,10 @@ h6{
 }
 
 #contacts {
-	padding-top: 3%;
+	padding-top: 25%;
 	width:100%;
 	background-color: #1D1129;
-	padding-bottom: 50%;
+	padding-bottom: 46%;
 	height:0;
 	text-align: center;
 	background-image: url("pics/adaback.png");
@@ -317,6 +317,16 @@ h6{
 
 	#container{
 		height: 2800px;
+	}
+
+	#menuContainer{
+		height: 41px;
+		width: 100%;
+		background-color: #333333;
+		position: fixed;
+		margin-top: 0;
+		text-align: center;
+		padding-left: 14.28%;
 	}
 
 	.menuButton {
@@ -451,7 +461,7 @@ h6{
 
 
 	#contacts {
-		padding-top: 3%;
+		padding-top: 25%;
 		width:100%;
 		background-color: #1D1129;
 		padding-bottom: 88%;
