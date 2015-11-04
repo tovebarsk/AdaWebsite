@@ -145,7 +145,7 @@ h6{
 	width: 100%;
 	padding-bottom: 32.3%;
 	height: 0;
-	background-image: url("pics/biljetter.png");
+	background-image: url("pics/biljettback.png");
 	background-size: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -168,13 +168,13 @@ h6{
 
 #del1{
 	float: left;
-	width: 33%;
+	width: 33.33%;
 	height: 200px;
 }
 
 #del2 {
 	float:left;
-	width: 33%;
+	width: 33.33%;
 	text-align: center;
 		height: 200px;
 }
@@ -182,7 +182,7 @@ h6{
 
 #del3 {
 	float: right;
-	width: 33%;
+	width: 33.33%;
 	height: 200px;
 }
 
@@ -190,7 +190,7 @@ h6{
 #ada {
 	padding-top: 3%;
 	width: 100%;
-	padding-bottom: 50%;
+	padding-bottom: 60%;
 	height:0;
 	background-color: #52437e;
 	background-image: url("pics/adaback.png");
@@ -222,7 +222,7 @@ h6{
 }
 
 #adah img{
-	width:60%;
+	width:50%;
 	height:auto;
 }
 
