@@ -45,6 +45,7 @@ h6{
 	text-align: center;
 	padding-left: 14.28%;
 }
+
 .menuButton{
 	
 	height: 50px;
@@ -326,7 +327,7 @@ h6{
 	}
 
 	#sittning{
-		padding-bottom: 76%;
+		padding-bottom: 100%;
 		height: 0;
 		width:100%;
 		background-image: url("pics/sittningback.png");
@@ -347,7 +348,7 @@ h6{
 
 	#sittningv img{	
 		padding: 0;
-		margin-top: 10%;
+		margin-top: 112px;
 		position: center;
 		width: 100%;
 		height: auto;
@@ -362,7 +363,7 @@ h6{
 
 	#sittningtext p {
 		font-size: 1.9vw;
-		color: black;	
+		color: #727272;	
 	}
 
 	#biljetter {
@@ -415,7 +416,7 @@ h6{
 	#ada {
 		padding-top: 3%;
 		width: 100%;
-		padding-bottom: 69%;
+		padding-bottom: 100%;
 		height:0;
 		background-color: #52437e;
 		background-image: url("pics/adaback.png");
@@ -453,7 +454,7 @@ h6{
 		padding-top: 3%;
 		width:100%;
 		background-color: #1D1129;
-		padding-bottom: 96%;
+		padding-bottom: 88%;
 		height:0;
 		text-align: center;
 	}
@@ -540,7 +541,7 @@ h6{
 	}
 
 	#sittning{
-		padding-bottom: 185%;
+		padding-bottom: 254%;
 		height: 0;
 		width:100%;
 		background-image: none;
@@ -594,7 +595,7 @@ h6{
 		background-image: none;
 		background-color: #AFB5D5;
 		width: 100%;
-		padding-bottom: 214%;
+		padding-bottom: 227%;
 		height: 0;
 	}
 
@@ -616,7 +617,7 @@ h6{
 		float: left;
 		width: 100%;
 		height: 200px;
-		padding-bottom: 50px;
+		padding-bottom: 70px;
 	}
 
 	#del2 {
@@ -624,7 +625,7 @@ h6{
 		width: 100%;
 		text-align: center;
 		height: 200px;
-		padding-bottom: 50px;
+		padding-bottom: 70px;
 	}
 
 
@@ -637,7 +638,7 @@ h6{
 	#ada {
 		padding-top: 3%;
 		width: 100%;
-		padding-bottom: 182%;
+		padding-bottom: 219%;
 		height:0;
 		background-color: #52437E;
 		background-image: none;
@@ -659,6 +660,7 @@ h6{
 		width:100%;
 		height: auto;
 		float:left;
+		padding-bottom: 30px;
 	}
 	#adah{
 		width:100%;
@@ -712,6 +714,7 @@ h6{
 	#contacts {
 		padding-top: 3%;
 		width:100%;
+		background-image: none;
 		background-color: #1D1129;
 		padding-bottom: 52%;
 		height:0;
