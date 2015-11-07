@@ -176,7 +176,7 @@ h6{
 }
 
 #biljetter a{
-	font-size: 30px;
+	font-size: 1.6vw;
 	font-weight: 300;
 }
 
@@ -464,6 +464,7 @@ h6{
 
 	#del1 a{
 		margin-top: 50px;
+
 	}
 
 	#del2 {
@@ -496,7 +497,7 @@ h6{
 		font-size: 1.6vw;
 		font-weight:normal;
 		color: #727272;
-		padding-bottom: 25px;
+		padding-bottom: 10px;
 	}
 
 	#ada {
